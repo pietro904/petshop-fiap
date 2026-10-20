@@ -1,0 +1,14 @@
+INTEGRANTES DO PROJETO - CHECKPOINT 5
+Disciplina: Web Development
+Turma: 1ESPJ
+Professor: Wellington Cidade Silva
+
+RMs e Nomes:
+- RMXXXXXX - Nome Completo 1 (Tech Lead)
+- RMYYYYYY - Nome Completo 2
+- RMZZZZZZ - Nome Completo 3
+
+Link do Repositório (público):
+https://github.com/pietro904/petshop-fiap
+
+Observação: Substitua os RMs e nomes. Repositório criado como público (transferir para organização se necessário).
